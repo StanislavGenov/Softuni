@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "/qW9dlrcc/WNToE5RaMHOFv1/JagRzRL5nVJJ1z4oDIwbMwh3ZjCxQYQrnMjpge53FSWGdS6SnsEGmulRcnBvg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\stasi\\OneDrive\\Desktop\\GitHub\\C-sharp-Fundamentals\\Solution 4.4\\Middle Characters\\Middle Characters.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\stasi\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.15\\microsoft.netcore.app.host.win-x64.5.0.15.nupkg.sha512",
+    "C:\\Users\\stasi\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\5.0.0\\microsoft.aspnetcore.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\stasi\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\5.0.0\\microsoft.windowsdesktop.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\stasi\\.nuget\\packages\\microsoft.netcore.app.ref\\5.0.0\\microsoft.netcore.app.ref.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,16 @@
+C:\Users\stasi\OneDrive\Desktop\GitHub\Solution 3\Condense array to number\bin\Debug\net5.0\Condense array to number.exe
+C:\Users\stasi\OneDrive\Desktop\GitHub\Solution 3\Condense array to number\bin\Debug\net5.0\Condense array to number.deps.json
+C:\Users\stasi\OneDrive\Desktop\GitHub\Solution 3\Condense array to number\bin\Debug\net5.0\Condense array to number.runtimeconfig.json
+C:\Users\stasi\OneDrive\Desktop\GitHub\Solution 3\Condense array to number\bin\Debug\net5.0\Condense array to number.runtimeconfig.dev.json
+C:\Users\stasi\OneDrive\Desktop\GitHub\Solution 3\Condense array to number\bin\Debug\net5.0\Condense array to number.dll
+C:\Users\stasi\OneDrive\Desktop\GitHub\Solution 3\Condense array to number\bin\Debug\net5.0\ref\Condense array to number.dll
+C:\Users\stasi\OneDrive\Desktop\GitHub\Solution 3\Condense array to number\bin\Debug\net5.0\Condense array to number.pdb
+C:\Users\stasi\OneDrive\Desktop\GitHub\Solution 3\Condense array to number\obj\Debug\net5.0\Condense array to number.csproj.AssemblyReference.cache
+C:\Users\stasi\OneDrive\Desktop\GitHub\Solution 3\Condense array to number\obj\Debug\net5.0\Condense array to number.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\stasi\OneDrive\Desktop\GitHub\Solution 3\Condense array to number\obj\Debug\net5.0\Condense array to number.AssemblyInfoInputs.cache
+C:\Users\stasi\OneDrive\Desktop\GitHub\Solution 3\Condense array to number\obj\Debug\net5.0\Condense array to number.AssemblyInfo.cs
+C:\Users\stasi\OneDrive\Desktop\GitHub\Solution 3\Condense array to number\obj\Debug\net5.0\Condense array to number.csproj.CoreCompileInputs.cache
+C:\Users\stasi\OneDrive\Desktop\GitHub\Solution 3\Condense array to number\obj\Debug\net5.0\Condense array to number.dll
+C:\Users\stasi\OneDrive\Desktop\GitHub\Solution 3\Condense array to number\obj\Debug\net5.0\ref\Condense array to number.dll
+C:\Users\stasi\OneDrive\Desktop\GitHub\Solution 3\Condense array to number\obj\Debug\net5.0\Condense array to number.pdb
+C:\Users\stasi\OneDrive\Desktop\GitHub\Solution 3\Condense array to number\obj\Debug\net5.0\Condense array to number.genruntimeconfig.cache

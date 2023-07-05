@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Condense array to number/1.0.0": {
+        "runtime": {
+          "Condense array to number.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Condense array to number/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
