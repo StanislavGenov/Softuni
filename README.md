@@ -22,7 +22,7 @@
 | **Course**                                                            | **Link**                                                   |
 | --------------------------------------------------------------------- | ---------------------------------------------------------- |
 | <a href="https://softuni.bg/trainings/2179/programming-basics-with-csharp-january-2021" > Programming Basics with C# </a>         | <a href="https://softuni.bg/certificates/details/101146/4e6d364b"> Link</a> |
-| <a href="https://softuni.bg/trainings/2237/technology-fundamentals-with-csharp-january-2019"> Fundamentals with C# </a>            | <a href="https://softuni.bg/certificates/details/111581/8f7fab85"> Link</a> |
+| <a href="https://github.com/StanislavGenov/Softuni/tree/main/Fundamentals%20C%23"> Fundamentals with C# </a>            | <a href="https://softuni.bg/certificates/details/111581/8f7fab85"> Link</a> |
 | <a href="https://softuni.bg/trainings/2348/csharp-advanced-may-2019"> C# Advanced </a>                                             | <a href="https://softuni.bg/certificates/details/114419/371e650f"> Link</a> |
 | <a href="https://softuni.bg/trainings/2349/csharp-oop-june-2019"> C# OOP </a>                                                      | <a href="https://softuni.bg/certificates/details/132744/a3acf1a3"> Link</a> |
 | <a href="https://softuni.bg/trainings/2495/databases-basics-ms-sql-server-september-2019">MS SQL </a>                              | <a href="https://softuni.bg/certificates/details/134926/6bfb2ffe"> Link</a> |
