@@ -25,7 +25,7 @@
 | <a href="https://softuni.bg/trainings/2237/technology-fundamentals-with-csharp-january-2019"> Fundamentals with C# </a>            | <a href="https://softuni.bg/certificates/details/111581/8f7fab85"> Link</a> |
 | <a href="https://softuni.bg/trainings/2348/csharp-advanced-may-2019"> C# Advanced </a>                                             | <a href="https://softuni.bg/certificates/details/114419/371e650f"> Link</a> |
 | <a href="https://softuni.bg/trainings/2349/csharp-oop-june-2019"> C# OOP </a>                                                      | <a href="https://softuni.bg/certificates/details/132744/a3acf1a3"> Link</a> |
-| <a href="https://softuni.bg/trainings/2495/databases-basics-ms-sql-server-september-2019"> Databases Basics - MS SQL Server </a>   | <a href="https://softuni.bg/certificates/details/134926/6bfb2ffe"> Link</a> |
+| <a href="https://softuni.bg/trainings/2495/databases-basics-ms-sql-server-september-2019">MS SQL </a>                              | <a href="https://softuni.bg/certificates/details/134926/6bfb2ffe"> Link</a> |
 | <a href="https://softuni.bg/trainings/2457/entity-framework-core-october-2019"> Entity Framework Core </a>                         | <a href="https://softuni.bg/certificates/details/141248/f77b87cb"> Link</a> |
 | <a href="https://softuni.bg/trainings/2613/csharp-web-basics-january-2020"> C# Web Basics </a>                                     | <a href="https://softuni.bg/certificates/details/77291/cc6000e8"> Link</a> |
 | <a href="https://softuni.bg/trainings/2796/asp-net-core-february-2020"> ASP.NET Core </a>                                          | <a href="https://softuni.bg/certificates/details/146650/9bc12b1f"> Link</a> |
