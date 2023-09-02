@@ -38,6 +38,7 @@
 | <a href="https://softuni.bg/trainings/2838/js-advanced-may-2020"> JS Advanced </a>          | <a href="https://softuni.bg/certificates/details/126722/a6fc34c1"> Link </a> |
 | <a href="https://softuni.bg/trainings/2840/js-applications-june-2020"> JS Applications </a> | <a href="https://softuni.bg/certificates/details/130425/b76501fe"> Link </a> |
 | <a href="https://softuni.bg/trainings/3972/js-back-end-january-2023"> JS Back-End </a>     | <a href="https://softuni.bg/certificates/details/175245/0157c6a4"> Link </a> |
+| <a href="https://softuni.bg/modules/122/js-web/1307"> JS Web Developer </a>     | <a href="https://softuni.bg/certificates/details/185257/4dbc3eb1"> Link </a> |
 </td>
 
 <td>
@@ -58,8 +59,8 @@
 
 | **Diploma**      | **Link**                                                                    |
 | ---------------- | --------------------------------------------------------------------------- |
-| C# Full-Stack Developer | <a href="https://softuni.bg/certificates/details/169756/40809611"> Link </a> |
-| JS Web Developer | <a href="https://softuni.bg/certificates/details/185257/4dbc3eb1"> Link </a> |
+| C# Full-Stack Developer | <a href="https://softuni.bg/certificates/details/185057/1a2c483e"> Link </a> |
+
 
 </td>
 
