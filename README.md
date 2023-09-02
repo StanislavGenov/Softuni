@@ -27,7 +27,7 @@
 | <a href="https://softuni.bg/trainings/2349/csharp-oop-june-2019"> C# OOP </a>                                                      | <a href="https://softuni.bg/certificates/details/132744/a3acf1a3"> Link</a> |
 | <a href="https://softuni.bg/trainings/2495/databases-basics-ms-sql-server-september-2019">MS SQL </a>                              | <a href="https://softuni.bg/certificates/details/134926/6bfb2ffe"> Link</a> |
 | <a href="https://softuni.bg/trainings/2457/entity-framework-core-october-2019"> Entity Framework Core </a>                         | <a href="https://softuni.bg/certificates/details/141248/f77b87cb"> Link</a> |
-| <a href="https://softuni.bg/trainings/2613/csharp-web-basics-january-2020"> C# Web Basics </a>                                     | <a href="https://softuni.bg/certificates/details/77291/cc6000e8"> Link</a> |
+| <a href="https://softuni.bg/trainings/2613/csharp-web-basics-january-2020"> C# Web Developer </a>                                  | <a href="https://softuni.bg/certificates/details/169756/40809611"> Link</a> |
 | <a href="https://softuni.bg/trainings/2796/asp-net-core-february-2020"> ASP.NET Core </a>                                          | <a href="https://softuni.bg/certificates/details/146650/9bc12b1f"> Link</a> |
 
 </td>
@@ -58,7 +58,7 @@
 
 | **Diploma**      | **Link**                                                                    |
 | ---------------- | --------------------------------------------------------------------------- |
-| C# Web Developer | <a href="https://softuni.bg/certificates/details/169756/40809611"> Link </a> |
+| C# Full-Stack Developer | <a href="https://softuni.bg/certificates/details/169756/40809611"> Link </a> |
 
 </td>
 
